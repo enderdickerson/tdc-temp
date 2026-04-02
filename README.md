@@ -1,2 +1,0 @@
-# tdc-temp
-tdc temp
